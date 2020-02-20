@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 20200220_01_FE : Untuk deposito dengan tipe bunga 'Transfer to private account' tidak di proses
 Test
+=======
+[ED2020228]
+FrmPAAutoJrn_20200220_01_FE : Untuk deposito dengan tipe bunga 'Transfer to private account' tidak di proses.-
+>>>>>>> master
