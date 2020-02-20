@@ -1,1 +1,1 @@
-
+20200220_01_FE : Untuk deposito dengan tipe bunga 'Transfer to private account' tidak di proses
