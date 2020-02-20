@@ -1,1 +1,1 @@
-----
+ED2020228 : Penambahan Filter Auto Jurnal Bunga Deposito untuk Deposito dengan Tipe Private Account tidak diproses.
