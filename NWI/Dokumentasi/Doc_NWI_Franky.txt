@@ -1,1 +1,1 @@
-
+ED2020231 : updated on DB ABSN Table TrAbsensi. Input tanggal 02-01-2020 menjadi hari libur massal.
