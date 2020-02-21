@@ -1,1 +1,1 @@
-
+##Digunakan untuk mencatat durasi selama pembuatan query dalam pekerjaan jenis 'Database'
