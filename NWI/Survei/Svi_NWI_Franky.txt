@@ -3,3 +3,4 @@ Data setelah cek access door
 tanggal 18-02-2020
 NWI-18.1017 = 06:47 s/d 14:37
 NWI-18.1018 = 06:56 s/d 14:37
+tanggal 02-01-2020 belum dimasukkan jadi libur massal di DB NWI
