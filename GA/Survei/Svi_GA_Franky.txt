@@ -1,1 +1,1 @@
-
+[ED2020241] : prosedur [SP_RptAkumulasiAbsensiSemuaKary] parameter ID karyawan yg di filter salah.
