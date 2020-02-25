@@ -1,2 +1,3 @@
 ##Digunakan untuk mencatat durasi selama pembuatan query dalam pekerjaan jenis 'Database'
 ED2020240 - Penambahan Filter Query Hitung Hari Libur dan Hitung Selisih Jam Libur 
+ED2020246 - Update UserID with IDEmp 
