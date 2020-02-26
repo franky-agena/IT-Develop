@@ -1,1 +1,2 @@
 [ED2020243] : tidak ada yg di develop. gunakan fitur export import untuk meng-copy ulang seluruh data table MBudgetE_GrpHd ke PT Geosinindo Group
+[ED2020259] : update table MEmpPosition di DB TGSDB
