@@ -1,1 +1,2 @@
 ED2020243 : Import data table MBudgetE_GrpHd ke seluruh PT Geosinindo Grup
+ED2020259 : update table tgsdb.dbo.MEmpPosition
