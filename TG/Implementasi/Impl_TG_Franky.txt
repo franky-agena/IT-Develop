@@ -1,1 +1,2 @@
 [ED2020235] : update ke seluruh DB dan sudah hapus brand yg sudah tidak terpakai.
+[ED2020263] : update exe Tgs_GA
