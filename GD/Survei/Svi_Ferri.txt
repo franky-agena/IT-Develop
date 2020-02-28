@@ -1,1 +1,2 @@
 ED2020228 : Penambahan Filter Auto Jurnal Bunga Deposito untuk Deposito dengan Tipe Private Account tidak diproses.
+ED2020280 : Pengecekan Nilai PPN yang terjurnal Include Biaya Angkutan (Menurut YU harusnya tidak di-includekan)
