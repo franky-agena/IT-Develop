@@ -1,1 +1,3 @@
 ED2020258 - Dokumentasi
+ED2020147 - Form Servis & Pinjam saat panggil data pada open itu datanya ada yg panggil ada yang tidak
+                   - Nama peminjam bisa link nya ke semua karyawan GD, TG, NWI, GA
