@@ -5,3 +5,4 @@ Test
 [ED2020228]
 FrmPAAutoJrn_20200220_01_FE : Untuk deposito dengan tipe bunga 'Transfer to private account' tidak di proses.-
 >>>>>>> master
+ED2020276 : Perbaikan Laporan Budget Vs Realisasi Group Jenis tidak muncul yang dikarenkan Jenis Group Account yang belum terisi.
