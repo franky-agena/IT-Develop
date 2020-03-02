@@ -4,3 +4,4 @@ ED2020258 - KETIKA SUDAH ADA LOI REVISI PASTIKAN LOI ORIGINAL TIDAK BISA DIUBAH 
                    - LOI ATAUPUN SPK YG SECARA DESAIN MENGELOMPOKAN ITEM BERDASARKAN KODE, NAMA DAN HARGA)
 ED2020147  - Form Servis & Pinjam saat panggil data pada open itu datanya ada yg panggil ada yang tidak
                     - Nama peminjam bisa link nya ke semua karyawan GD, TG, NWI, GA
+ED2020281 - Perbaikan form BPP pada tab pihak ke tiga, jika pilih no PO hanya bisa di supplier yang sama tidak bisa beda.
