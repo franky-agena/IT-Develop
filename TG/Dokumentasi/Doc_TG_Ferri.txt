@@ -3,3 +3,4 @@ ED2020240 - Penambahan Filter Hitung Hari Libur untuk Deviasi
 ED2020246 - Ubah PIC yang sebelumnya menggunakan Initials Dengan IDEmp
 ED2020261 - Perubahan Aplikasi Terkait Kebutuhan Bagian Legal 
 ED2020269 - Perubahan Perhitungan Performance Grade Bagian Legal untuk Kategori "Perpanjang Perizinan" (Doc)
+Ed2020275 - Perbaikan Nilai Minus Turn Over GD Sales YR
