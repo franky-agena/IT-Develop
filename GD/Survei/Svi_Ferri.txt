@@ -1,3 +1,4 @@
 ED2020228 : Penambahan Filter Auto Jurnal Bunga Deposito untuk Deposito dengan Tipe Private Account tidak diproses.
 ED2020280 : Pengecekan Nilai PPN yang terjurnal Include Biaya Angkutan (Menurut YU harusnya tidak di-includekan)
 ED2020276 : Pengecekan Laporan Budget Vs Realisasi yang keliru (Pembagian Total Biaya dan Total Investasi tidak ada).
+ED2020298 : Penambahan Pengelompokkan Laporan PDP dan TK Berdasarkan Proyek.
