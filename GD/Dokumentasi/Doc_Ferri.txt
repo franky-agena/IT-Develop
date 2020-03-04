@@ -7,3 +7,4 @@ FrmPAAutoJrn_20200220_01_FE : Untuk deposito dengan tipe bunga 'Transfer to priv
 >>>>>>> master
 ED2020276 : Perbaikan Laporan Budget Vs Realisasi Group Jenis tidak muncul yang dikarenkan Jenis Group Account yang belum terisi.
 ED2020280 : Perubahan Pengambilan Nilai PPN pada Auto Jurnal Pembelian (Diambil sesuai Nilai yang diisi pada VAT PPJK Import di Tab Payable Khusus Transaksi Lokal).
+ED2020298 : Penambahan View Laporan PDP dan TK Group berdasarkan Proyek
