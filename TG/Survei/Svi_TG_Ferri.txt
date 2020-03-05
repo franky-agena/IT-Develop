@@ -1,3 +1,4 @@
 ED2020234 - Pengecekan Detil Data DO 2020056 yang Hilang Semua ( Req by BZ)
 Ed2020275 - Pengecekan Nilai Minus Turn Over GD untuk Sales YR 
-ED2020291 - Perubahan Pengambilan Referansi Tanda Tangan 
+ED2020291 - Perbaikan form Servis & Pinjam yang group nya Vehicle itu di tambahkan status
+                      keperluan Dinas atau pribadi dan Akan berpengaruh pada saat cetak reportnya
