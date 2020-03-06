@@ -10,3 +10,4 @@ ED2020280 : Perubahan Pengambilan Nilai PPN pada Auto Jurnal Pembelian (Diambil 
 ED2020298 : Penambahan View Laporan PDP dan TK Group berdasarkan Proyek
 ED2020301 : Perbaikan Laporan PDP dan TK Group Berdasarkan Proyek (Beginning Amount Ada yang tidak muncul)
 ED2020310 : Penambahan Beginning Balance dan Ending Balance Pada bagian Grand total untuk Laporan PDP dan TK
+ED2020313 : Penambahan Atasan Baru "Pak Budi" ke Module Permintaan Tiket
