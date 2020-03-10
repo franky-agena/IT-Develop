@@ -4,3 +4,4 @@ ED2020276 : Pengecekan Laporan Budget Vs Realisasi yang keliru (Pembagian Total 
 ED2020298 : Penambahan Pengelompokkan Laporan PDP dan TK Berdasarkan Proyek.
 ED2020301 : Perbaikan Laporan PDP dan TK (Terdapat Begining Balance yang tidak mucul jika tidak ada Mutasi)
 ED2020310 : Penambahan Total Beginning Balance dan Ending Balance pada bagian Grand Total
+ED2020329 : Perubahan Module Droping dan Realisasi Proyek
