@@ -6,3 +6,4 @@ ED2020147  - Form Servis & Pinjam saat panggil data pada open itu datanya ada yg
                     - Nama peminjam bisa link nya ke semua karyawan GD, TG, NWI, GA
 ED2020281 - Perbaikan form BPP pada tab pihak ke tiga, jika pilih no PO hanya bisa di supplier yang sama tidak bisa beda.
 ED2020300 -	Perbaikan bpp saat pilih PO ada kesalahan muncul pesan no surat jalan yang sama.
+ED2020348 - Penambahan colom Diskom AM di Master Material Tab PriceList, dan Penambahan kolom kategori di listview master brand
