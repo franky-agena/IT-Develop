@@ -5,3 +5,5 @@ ED2020290 -	Lanjut perbaikin form Servis pinjam pada saat cari karyawan bisa sem
                       pada GD & GA & NWI
 ED2020311 - DIUBAH DURASINYA 60 HARI SEBELUM JATUH TEMPO. UNTUK YG DI APLIKASI TG SUDAH BERJALAN 
                       DAN PERLU DITERAPKAN DI SELURUH APLIKASI TG GROUP
+ED2020331 - Tambahkan Save data saat tambah ataupun edit perubahan dan hapus, akan masuk 
+                        ke form Tidak hadir di form Demob group Personil.
