@@ -4,3 +4,4 @@ ED2020290 - Link kan karyawan bisa di semua group. dan cek data id asset yang ti
 ED2020311 - DIUBAH DURASINYA 60 HARI SEBELUM JATUH TEMPO. DAN DITERAPKAN DI SELURUH APLIKASI TG GROUP
 ED2020331 - MOB DEMOB PERSONIL SECARA OTOMATIS AKAN MELAKUKAN INSERT DATA APLIKASI 
                       ABSENSI "FORM TIDAK HADIR" JENIS "TUGAS"
+ED2020333 - Buat agar Aplikasi support untuk karyawan yang bekerja 6 hari seminggu
