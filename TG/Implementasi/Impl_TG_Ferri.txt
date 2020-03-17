@@ -2,3 +2,4 @@ ED2020234 - Restore Data Detil yang Hilang untuk DO 2020056
 ED2020246 - Update Exe Request Job 
 ED2020275 - Update Exe Untuk Perbaikan Turn Over GD yang Minus untuk Sales YR
 ED2020291 - Update Exe Perubahan Referensi Tanda Tangan SO dan PR
+ED2020349 - Update Exe Perubahan Modul Quotation
