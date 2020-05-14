@@ -13,3 +13,4 @@ ED2020310 : Penambahan Beginning Balance dan Ending Balance Pada bagian Grand to
 ED2020313 : Penambahan Atasan Baru "Pak Budi" ke Module Permintaan Tiket
 ED2020329 : Perubahan Modul Droping dan Realisasi (Bisa Droping dan Realisasi Item Di Luar Budget)
 ED2020384 : Penambahan Tipe Mob Komputer untuk Reminder Mob List
+ED2020388 : Perbaikan Filter Browse No Budget, Menghilangkan pengecekan Over Budget 
