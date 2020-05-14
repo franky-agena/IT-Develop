@@ -1,1 +1,2 @@
 ED2020276 - Update Data Group Kind Account (Penyebab Laporan Jenis Biaya dan Investasi tidak Muncul)
+ED2020384 - Penambahan Tipe Mob Komuter pada Reminder Mob List
