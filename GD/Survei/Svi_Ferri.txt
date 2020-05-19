@@ -7,3 +7,4 @@ ED2020310 : Penambahan Total Beginning Balance dan Ending Balance pada bagian Gr
 ED2020329 : Perubahan Module Droping dan Realisasi Proyek
 ED2020391 : Perbaikan Saldo Akhir muncul Double 
 ED2020390 : Perbuahan Struktur Close Project Menjadi Project Resume pada Module Master Project
+ED2020398 : Penambahan Mod Type Material di Reminder Mob List
