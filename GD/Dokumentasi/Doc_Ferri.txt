@@ -16,3 +16,4 @@ ED2020384 : Penambahan Tipe Mob Komputer untuk Reminder Mob List
 ED2020388 : Perbaikan Filter Browse No Budget, Menghilangkan pengecekan Over Budget 
 ED2020391 : Perbaikan Proses Stock Card Site Project muncul Double Stock Akhir serta cek nilai HPP yang 0
 ED2020390 : Perubahan fungsi Tombol Close Project menjadi Project Resume pada Master Project
+ED2020398 : Penambahan Tipe Mob Material Pada Reminder Mob List dengan tampilan yang disesuaikan
