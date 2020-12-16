@@ -1,3 +1,4 @@
 [ED2020235] Data yg diubah sesuai dengan kode material dan brand yg dikirimkan oleh user david pada tanggal 18-02-2020
 ED2020263 - perubahan yg perlu dilakukan adalah di form transaksi reminder dan pada form pop up reminder agar mengecek data menggunakan manager staff Bpp
                     dan perbaikan form print yg hanya menampilkan data yg berhubungan dengan manager staff user ybs.
+ED2020312 perubahan kolom payment dan condition dibuat multiline dan tidak dibatasi panjang karakternya.
