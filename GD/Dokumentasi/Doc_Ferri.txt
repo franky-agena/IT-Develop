@@ -19,3 +19,4 @@ ED2020390 : Perubahan fungsi Tombol Close Project menjadi Project Resume pada Ma
 ED2020398 : Penambahan Tipe Mob Material Pada Reminder Mob List dengan tampilan yang disesuaikan
 ED2020445 : Perbaikan Module Equipment Properties sesuai pada Note Request
 ED2020447 : Perbaikan Module Purchase Request (Penambahan Caption Purchaser Order), Purchase Order (Print Ukuran disesuaikan Centang pada Master Material), Arrival Fixed Asset (menghilangkan tombol delete dikarenkan fungsi penghapusan akan dipindahkan pada module Fixed Asset Depreciation Accounting)
+ED2020450 : Develop Module Reminder baru : Reminder Mob Equipment, Mob Sparepart dan Mob Supporting Material yang belum divalidasi.
