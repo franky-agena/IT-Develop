@@ -21,3 +21,4 @@ ED2020445 : Perbaikan Module Equipment Properties sesuai pada Note Request
 ED2020447 : Perbaikan Module Purchase Request (Penambahan Caption Purchaser Order), Purchase Order (Print Ukuran disesuaikan Centang pada Master Material), Arrival Fixed Asset (menghilangkan tombol delete dikarenkan fungsi penghapusan akan dipindahkan pada module Fixed Asset Depreciation Accounting)
 ED2020450 : Develop Module Reminder baru : Reminder Mob Equipment, Mob Sparepart dan Mob Supporting Material yang belum divalidasi.
 ED2020453 : Perbaikan Perhitungan Persentase Over pada List Reminder Over Budget serta pengambilan data Over Budget sebelumnya Budget Vs Droping menjadi Budget Vs Realisasi
+ED2020454 : Perubahan Format Email Reminder Project over Budget
