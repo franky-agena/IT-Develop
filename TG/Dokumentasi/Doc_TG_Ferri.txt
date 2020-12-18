@@ -5,3 +5,4 @@ ED2020261 - Perubahan Aplikasi Terkait Kebutuhan Bagian Legal
 ED2020269 - Perubahan Perhitungan Performance Grade Bagian Legal untuk Kategori "Perpanjang Perizinan" (Doc)
 ED2020275 - Perbaikan Nilai Minus Turn Over GD Sales YR
 ED2020349 - Perubahan Module Quotation dengan Penambahan Otorisasi Area Manager
+ED2020451 - Perbaikan Arrival Fixed Asset dan Fixed Asset Depreciation sesuai Perbaikan pada Request ED2020447
