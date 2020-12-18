@@ -11,3 +11,4 @@ ED2020398 : Penambahan Mod Type Material di Reminder Mob List
 ED2020445 : Perbaikan Module Equipment Properties
 ED2020447 : Perbaikan Module Purcase Request, Purchase Order dan Arrival Fixed Asset
 ED2020450 : Pembuatan  Reminder Mob Alat, Sparepart dan Supporting Material yang belum divalidasi.
+ED2020454 : Perubahan Format Email Reminder Project over Budget
