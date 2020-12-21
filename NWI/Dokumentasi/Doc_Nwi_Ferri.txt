@@ -1,1 +1,2 @@
 ED2020451 - Perbaikan Arrival Fixed Asset dan Fixed Asset Depreciation sesuai Perbaikan pada Request ED2020447
+ED2020457 - Penambahan Reminder Outstanding Arrival Fixed Asset (Letak Form : Sourcesafe\Finance\Transaction\FrmTFARInvRmd)

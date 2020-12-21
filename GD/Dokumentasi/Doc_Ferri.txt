@@ -23,3 +23,4 @@ ED2020450 : Develop Module Reminder baru : Reminder Mob Equipment, Mob Sparepart
 ED2020453 : Perbaikan Perhitungan Persentase Over pada List Reminder Over Budget serta pengambilan data Over Budget sebelumnya Budget Vs Droping menjadi Budget Vs Realisasi
 ED2020454 : Perubahan Format Email Reminder Project over Budget
 ED2020456 : Perbaikan Bug Error saat buka View Budget untuk keperluan Warehouse
+ED2020457 : Penambahan Reminder Outstanding Arrival Fixed Asset (Letak Form : Sourcesafe\Finance\Transaction\FrmTFARInvRmd)
