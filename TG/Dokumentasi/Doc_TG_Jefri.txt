@@ -6,3 +6,5 @@ ED2020300 - Perbaikan bpp saat pilih PO ada kesalahan muncul pesan no surat jala
 ED2020303 - Perbaikan form Servis & Pinjam yang group nya Vehicle itu di tambahkan status
                      keperluan Dinas atau pribadi dan Akan berpengaruh pada saat cetak reportnya
 ED2020348 - Penambahan colom Diskom AM di Master Material Tab PriceList, dan Penambahan kolom kategori di listview master brand
+ED2020452 - Bikin Reminder Form Tidak Hadir (GD, TG, NWI, GA)
+ED2020455 - [TG][GD][GA][NWI] PERIODE PEMINJAMAN TAMPIL TIDAK SESUAI DENGAN YG DIINPUT PADA FITUR CETAK
