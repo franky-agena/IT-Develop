@@ -13,3 +13,4 @@ ED2020447 : Perbaikan Module Purcase Request, Purchase Order dan Arrival Fixed A
 ED2020450 : Pembuatan  Reminder Mob Alat, Sparepart dan Supporting Material yang belum divalidasi.
 ED2020454 : Perubahan Format Email Reminder Project over Budget
 ED2020457 : Penambahan Outstanding Arrival Fixed Asset 
+ED2020462 : Perbaikan Lap. Project Tools
