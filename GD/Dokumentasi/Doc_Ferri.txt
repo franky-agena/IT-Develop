@@ -24,3 +24,4 @@ ED2020453 : Perbaikan Perhitungan Persentase Over pada List Reminder Over Budget
 ED2020454 : Perubahan Format Email Reminder Project over Budget
 ED2020456 : Perbaikan Bug Error saat buka View Budget untuk keperluan Warehouse
 ED2020457 : Penambahan Reminder Outstanding Arrival Fixed Asset (Letak Form : Sourcesafe\Finance\Transaction\FrmTFARInvRmd)
+ED2020462 : Perbaikan Lap. Project Tools (Perhitungan Nilai Budget Belum dikurangi sewa internal dan material) (Source\Utility\FrmReminderProjectReal)
