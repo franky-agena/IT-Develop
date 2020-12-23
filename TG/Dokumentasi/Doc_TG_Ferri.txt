@@ -7,3 +7,4 @@ ED2020275 - Perbaikan Nilai Minus Turn Over GD Sales YR
 ED2020349 - Perubahan Module Quotation dengan Penambahan Otorisasi Area Manager
 ED2020451 - Perbaikan Arrival Fixed Asset dan Fixed Asset Depreciation sesuai Perbaikan pada Request ED2020447
 ED2020457 - Penambahan Reminder Outstanding Arrival Fixed Asset (Letak Form : Sourcesafe\Finance\Transaction\FrmTFARInvRmd)
+ED2020464 - Perubahan Master Aset & Arr. Fixed Aset, Detil perubahan dapat dilihat pada Job Request (Sourcesafe\Procurement\Master\FrmTArrivalFA atau Source\Utility\FrmTUAssetIT)
