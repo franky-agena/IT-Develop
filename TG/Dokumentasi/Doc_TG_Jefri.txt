@@ -8,3 +8,4 @@ ED2020303 - Perbaikan form Servis & Pinjam yang group nya Vehicle itu di tambahk
 ED2020348 - Penambahan colom Diskom AM di Master Material Tab PriceList, dan Penambahan kolom kategori di listview master brand
 ED2020452 - Bikin Reminder Form Tidak Hadir (GD, TG, NWI, GA)
 ED2020455 - [TG][GD][GA][NWI] PERIODE PEMINJAMAN TAMPIL TIDAK SESUAI DENGAN YG DIINPUT PADA FITUR CETAK
+ED2020465 - Perbaikan Repot HRD lokasi FIle Report di folder HRD\Report & Report Exit Clearence di folder HRD\Master
