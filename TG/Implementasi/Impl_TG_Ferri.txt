@@ -5,3 +5,4 @@ ED2020291 - Update Exe Perubahan Referensi Tanda Tangan SO dan PR
 ED2020349 - Update Exe Perubahan Modul Quotation
 ED2020451 - Update perbaikan Arrival Fixed Asset dan Fixed Asset Depreciation
 ED2020457 - Penambahan Reminder Outstanding Arrival Fixed Asset 
+ED2020464 - Perubahan Master Aset & Arr. Fixed Aset
