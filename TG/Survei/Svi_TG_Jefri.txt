@@ -11,3 +11,4 @@ ED2020452 - Bikin Popup Reminder form tidak hadir Untuk Manager dan HRD
 ED2020455 - [TG][GD][GA][NWI] PERIODE PEMINJAMAN TAMPIL TIDAK SESUAI DENGAN YG DIINPUT PADA FITUR CETAK
 ED2020465 - Revisi Report Exit Clearance Sheet & Report HRD 
 ED2020458 - Bikin Reminder Berita Acara penghapusan Aset di jadi satu di form REMINDER SPECIAL PRICE. (TG), kalo di (GD)  jadi satu di form REMINDER Form karyawaan akan berakhir
+ED2020471 - Perbaikan fitur List Monitor Alat & SDM 
