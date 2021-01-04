@@ -1,3 +1,4 @@
 ED2020451 - Update perbaikan Arrival Fixed Asset dan Fixed Asset Depreciation
 ED2020457 - Penambahan Reminder Outstanding Arrival Fixed Asset 
 ED2020464 - Perubahan Master Aset & Arr. Fixed Aset
+ED2020472 - Perbaikan Reminder Outstanding Invoice
