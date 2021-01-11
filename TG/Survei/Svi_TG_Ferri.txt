@@ -6,3 +6,4 @@ ED2020349 - Perubahan Module Quotation (Terdapat pengecekan Baru yaitu Diskon Ar
 ED2020464 - Perubahan Master Aset & Arr. Fixed Aset
 ED2020473 - Perubahan Sales Daily Activity
 ED2021005 - Perubahan Form QO 
+ED2021010 - Pembuatan Fungsi Lock Forecast
