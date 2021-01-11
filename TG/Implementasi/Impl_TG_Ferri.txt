@@ -9,3 +9,4 @@ ED2020464 - Perubahan Master Aset & Arr. Fixed Aset
 ED2020472 - Perbaikan Reminder Outstanding Invoice
 ED2020473 - Perubahan Sales Daily Activity
 ED2021005 - Perubahan Form QO
+ED2021010 - Pembuatan Fungsi Lock Forecast
