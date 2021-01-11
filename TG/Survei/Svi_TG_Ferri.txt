@@ -5,3 +5,4 @@ ED2020291 - Perbaikan form Servis & Pinjam yang group nya Vehicle itu di tambahk
 ED2020349 - Perubahan Module Quotation (Terdapat pengecekan Baru yaitu Diskon Area Manager)
 ED2020464 - Perubahan Master Aset & Arr. Fixed Aset
 ED2020473 - Perubahan Sales Daily Activity
+ED2021005 - Perubahan Form QO 

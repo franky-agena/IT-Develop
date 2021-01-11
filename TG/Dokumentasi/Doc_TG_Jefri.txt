@@ -11,3 +11,6 @@ ED2020455 - [TG][GD][GA][NWI] PERIODE PEMINJAMAN TAMPIL TIDAK SESUAI DENGAN YG D
 ED2020465 - Perbaikan Repot HRD lokasi FIle Report di folder HRD\Report & Report Exit Clearence di folder HRD\Master
 ED2020458 - Reminder Penghapusan Aset TGS- FA\XForm_Modul\MFrmMain1.frm, TGS- FA\Jam\MJam.frm (TG)
                         TGS-GD\XForm_Modul\MFrmMain1.frm, TGS-GD\HRD\Master\FrmMHEmployeeReminder.frm (GD, NWI, GA)
+ED2021003 - Perbaikan form BPP pada Pihak ke tiga di bagian pph nya di tambahkan pph 26 lokasi file. TGS- GA\Finance\Transaction\FrmTFBPP2.frm (TG,NWI,GD,GA)
+ED2021007 - Perbaikan form master pelamar TGS- GA\HRD\Master\FrmMHEmployee.frm (TG,NWI,GD,GA)
+                   - Master Karyawan. TGS- GA\HRD\Master\FrmMHApplicant.frm (TG,NWI,GD,GA)

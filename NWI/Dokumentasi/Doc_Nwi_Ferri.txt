@@ -2,3 +2,5 @@ ED2020451 - Perbaikan Arrival Fixed Asset dan Fixed Asset Depreciation sesuai Pe
 ED2020457 - Penambahan Reminder Outstanding Arrival Fixed Asset (Letak Form : Sourcesafe\Finance\Transaction\FrmTFARInvRmd)
 ED2020464 - Perubahan Master Aset & Arr. Fixed Aset, Detil perubahan dapat dilihat pada Job Request (Sourcesafe\Procurement\Master\FrmTArrivalFA atau Source\Utility\FrmTUAssetIT)
 ED2020472 - Perbaikan Reminder Outstanding Invoice : Perbaikan Filter Data Detil dapat dilihat di Form Request (Sourcesafe\Finance\Transaction\FrmTFARInvRmd))
+ED2021001 - Update Source PR & PO dari Source GD (Sourcesafe\Procurement\Transaction\FrmPORequest Or FrmTPPrchOrd)
+ED2021004 - Perubahan Form PO & PR detil perbaikan dapat dilihat pada Module Request (Sourcesafe\Procurement\Transaction\FrmPORequest Or FrmTPPrchOrd)
