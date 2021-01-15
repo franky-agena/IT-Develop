@@ -31,3 +31,4 @@ ED2020472 : Perbaikan Reminder Outstanding Invoice : Perbaikan Filter Data Detil
 ED2021004 : Perubahan Form PO & PR detil perbaikan dapat dilihat pada Module Request (Sourcesafe\Procurement\Transaction\FrmPORequest Or FrmTPPrchOrd)
 ED2021006 : Perubahan Alamat PT pada Surat Jalan (Sourcesafe\Construction\Transaction\CRptTCMobSrtJalan atau CRptTCMobSJMaterial)
 ED2021011 : Perbaikan Update nilai BPP dari Dropping jika sudah Over Budget (Sourcesafe\Construction\Transaction\TCDroping)
+ED2021015 : Perubahan Fitur Reminder via Email (Source\Utility\FrmReminderProjectReal Or FrmReminderContractIO)
