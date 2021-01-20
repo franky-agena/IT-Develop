@@ -15,3 +15,6 @@ ED2021013 - PEMBUATAN SCHEDULE PERSONIL PROYEK SESUAI DENGAN FILE EXCEL YG DIKIR
                     - File kedua di Seorcode Absen NWI file lokasi nya 
                        NWI ABSEN\ABSENSI\Form\FrmHRTdkHadir.frm
                        NWI ABSEN\ABSENSI\Form\FrmHRCutiBesar.frm
+ED2021017 - [GD][GA][NWI] FORM PERMINJAMAN & PENGEMBALIAN PERLU DITAMPILKAN NOMOR PROJECT (JIKA ADA) BESERTA NAMA KETIKA DI CETAK.
+                    File ada Utility\FrmTURepair.frm
+                                  Utility\CRptJasaIT.Dsr
