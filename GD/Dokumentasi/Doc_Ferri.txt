@@ -32,3 +32,4 @@ ED2021004 : Perubahan Form PO & PR detil perbaikan dapat dilihat pada Module Req
 ED2021006 : Perubahan Alamat PT pada Surat Jalan (Sourcesafe\Construction\Transaction\CRptTCMobSrtJalan atau CRptTCMobSJMaterial)
 ED2021011 : Perbaikan Update nilai BPP dari Dropping jika sudah Over Budget (Sourcesafe\Construction\Transaction\TCDroping)
 ED2021015 : Perubahan Fitur Reminder via Email (Source\Utility\FrmReminderProjectReal Or FrmReminderContractIO)
+ED2021018 : Perbaikan Module Report SubLegder (Sourcesafe\Accounting\Report\FrmRASubLdg)
