@@ -18,3 +18,8 @@ ED2021013 - PEMBUATAN SCHEDULE PERSONIL PROYEK SESUAI DENGAN FILE EXCEL YG DIKIR
 ED2021017 - [GD][GA][NWI] FORM PERMINJAMAN & PENGEMBALIAN PERLU DITAMPILKAN NOMOR PROJECT (JIKA ADA) BESERTA NAMA KETIKA DI CETAK.
                     File ada Utility\FrmTURepair.frm
                                   Utility\CRptJasaIT.Dsr
+ED2021019 - PEMBUATAN ANTARMUKA UNTUK MENGINPUT TRANSAKSI KARYAWAN YG SUDAH DIBAYAR POTONGAN (GAJI) ABSENSI. (NWI, GD, GA, TG)
+                      File ada TGS- GA\ABSENSI\Form\FrmHRMenuUtama.frm
+                                   TGS- GA\ABSENSI\Form\FrmHRCutiBayarPotongan.frm
+                                   TGS- GA\ABSENSI\Form\FrmHRTdkHadir.frm
+                                   TGS- GA\ABSENSI\Form\FrmHRMasterUser.frm
