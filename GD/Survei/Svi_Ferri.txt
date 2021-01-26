@@ -18,3 +18,5 @@ ED2020464 : Perubahan Master Aset & Arr. Fixed Aset
 ED2021004 : Perubahan Form PO & PR
 ED2021011 : Perbaikan Nilai Update Biaya Proyek dari Dropping 
 ED2021018 : Perbaikan Report Subledger
+ED2021020 : Perbaikan Master Karyawan & Mob Demob Personil
+ED2021023 : Perubahan Report Turn Over by Sales
