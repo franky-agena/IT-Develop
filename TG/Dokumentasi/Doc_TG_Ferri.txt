@@ -11,3 +11,6 @@ ED2020464 - Perubahan Master Aset & Arr. Fixed Aset, Detil perubahan dapat dilih
 ED2020472 - Perbaikan Reminder Outstanding Invoice : Perbaikan Filter Data Detil dapat dilihat di Form Request (Sourcesafe\Finance\Transaction\FrmTFARInvRmd))
 ED2020473 - Perubahan Sales Daily Activity (SourceSafe\Marketing\Transaction\FrmTMSlsActv)
 ED2021005 - Perubahan Form QO Detil dapat dilihat pada Request (Source\Marketing\Transaction\FrmTMQuot)
+ED2021010 - Pembuatan Fungsi Lock Forecast (Source\XForm_Modul\MfrmMain Or (Source\Marketing\Transaction\FrmTMQuot Or FrmTMSlsActv)
+ED2021014 - Pembuatan Preview Forecast Sales (Source\Utility\FrmPreviewForecast)
+ED2021016 - Pembuatan Laporan Forecast Sales (Source\Utility\FrmPreviewForecast)
