@@ -14,3 +14,6 @@ ED2020458 - Reminder Penghapusan Aset TGS- FA\XForm_Modul\MFrmMain1.frm, TGS- FA
 ED2021003 - Perbaikan form BPP pada Pihak ke tiga di bagian pph nya di tambahkan pph 26 lokasi file. TGS- GA\Finance\Transaction\FrmTFBPP2.frm (TG,NWI,GD,GA)
 ED2021007 - Perbaikan form master pelamar TGS- GA\HRD\Master\FrmMHEmployee.frm (TG,NWI,GD,GA)
                    - Master Karyawan. TGS- GA\HRD\Master\FrmMHApplicant.frm (TG,NWI,GD,GA)
+ED2021026 - PENAMBAHAN PADA APLIKASI TGS SM & FA  Reminder form tidak hadir
+                        FIle TGS- FA\Utility\FrmURmdAccpDateInv.frm
+                        file  TGS- SM\Utility\FrmReminderAgenda.frm
