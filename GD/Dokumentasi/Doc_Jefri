@@ -23,3 +23,6 @@ ED2021019 - PEMBUATAN ANTARMUKA UNTUK MENGINPUT TRANSAKSI KARYAWAN YG SUDAH DIBA
                                    TGS- GA\ABSENSI\Form\FrmHRCutiBayarPotongan.frm
                                    TGS- GA\ABSENSI\Form\FrmHRTdkHadir.frm
                                    TGS- GA\ABSENSI\Form\FrmHRMasterUser.frm
+ED2021025 - [TG][GD][GA][NWI] USER TERTENTU DAPAT MELIHAT DATA TRANSAKSI SELAIN DATA YG BERHUBUNGAN 
+                        DENGAN USER YBS (SELAIN ATAS NAMA USER / MENYETUJUI ATAS NAMA USER).
+                        File ada TGS- GA\ABSENSI\Form\FrmHRTdkHadir.frm
