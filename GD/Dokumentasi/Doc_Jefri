@@ -29,3 +29,4 @@ ED2021025 - [TG][GD][GA][NWI] USER TERTENTU DAPAT MELIHAT DATA TRANSAKSI SELAIN 
 ED2021029 - SUPPORT KODE PROJECT DENGAN ABJAD (CTH :2020.101A) file TGS-GD\Warehouse\Report\FrmRWUsageEquip.frm 
                         dan TGS-GD\Warehouse\Report\CRptRWHistoryEquipment2.Dsr
 ED2021031 - File TGS-GD\Construction\Transaction\CRptTCQuotA.Dsr Dan TGS-GD\Construction\Transaction\CRptTCQuotIndA.Dsr
+ED2021032 - File TGS-GD\Marketing\Master\FrmMMProject.frm
