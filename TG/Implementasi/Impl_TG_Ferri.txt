@@ -12,3 +12,5 @@ ED2021005 - Perubahan Form QO
 ED2021010 - Pembuatan Fungsi Lock Forecast
 ED2021014 - Pembuatan Preview Forecast Sales
 ED2021016 - Pembuatan Laporan Forecast Sales
+ED2021027 - Perubahan Modul Sales Forecast
+ED2021030 - Perubahan Fitur Print Job Request Summary

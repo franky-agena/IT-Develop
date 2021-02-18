@@ -36,3 +36,4 @@ ED2021018 : Perbaikan Module Report SubLegder (Sourcesafe\Accounting\Report\FrmR
 ED2021021 : Perbaikan Master Karyawan & Mob Demob Personil (Sourcesafe\HRD\Master\FrmMHEmployee Or Sourcesafe\Construction\Transaction\TCMObDemobNew)
 ED2021023 : Perubahan Report Turn Over by Sales (Source\Marketing\Report\CRptRMTurnOverBySales)
 ED2021024 : Perbaikan pada Journal Entry (Update JrnNo pada Jurnal Alokasi jika terdapat transaksi yang dihapus di tengah no voucher terebut) (Source\Accounting\Transaction\FrmTAJrnEnt)
+ED2021033 : Perbaikan Lap. Project Expense (Soruce\Accounting\Process\FrmPACopyJrn)

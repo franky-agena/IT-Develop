@@ -14,3 +14,5 @@ ED2021005 - Perubahan Form QO Detil dapat dilihat pada Request (Source\Marketing
 ED2021010 - Pembuatan Fungsi Lock Forecast (Source\XForm_Modul\MfrmMain Or (Source\Marketing\Transaction\FrmTMQuot Or FrmTMSlsActv)
 ED2021014 - Pembuatan Preview Forecast Sales (Source\Utility\FrmPreviewForecast)
 ED2021016 - Pembuatan Laporan Forecast Sales (Source\Utility\FrmPreviewForecast)
+ED2021027 - Perubahan Modul Sales Forecast (Source\Utility\FrmPreviewForecast)
+ED2021030 - Perubahan Fitur Print Job Request Summary (Source\Form\Menu\FrmReportPrn)
