@@ -37,3 +37,4 @@ ED2021021 : Perbaikan Master Karyawan & Mob Demob Personil (Sourcesafe\HRD\Maste
 ED2021023 : Perubahan Report Turn Over by Sales (Source\Marketing\Report\CRptRMTurnOverBySales)
 ED2021024 : Perbaikan pada Journal Entry (Update JrnNo pada Jurnal Alokasi jika terdapat transaksi yang dihapus di tengah no voucher terebut) (Source\Accounting\Transaction\FrmTAJrnEnt)
 ED2021033 : Perbaikan Lap. Project Expense (Soruce\Accounting\Process\FrmPACopyJrn)
+ED2021062 : Perubahan Reminder Kontrak yang akan jatuh tempo (Source\Utility\FrmReminderContract)
