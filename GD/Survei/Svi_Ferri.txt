@@ -24,3 +24,4 @@ ED2021024 : Perbaikan Fitur Copy Journal
 ED2021033 : Perbaikan Lap. Project Expense
 ED2021062 : Pembuatan Reminder Kontrak yg Akan Berakhir
 ED2021071 : Perbaikan Form Perhitungan HPP
+ED2021076 : Perbaikan Project Tools - Budget Control List
