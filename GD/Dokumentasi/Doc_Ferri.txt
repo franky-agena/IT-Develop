@@ -39,3 +39,4 @@ ED2021024 : Perbaikan pada Journal Entry (Update JrnNo pada Jurnal Alokasi jika 
 ED2021033 : Perbaikan Lap. Project Expense (Soruce\Accounting\Process\FrmPACopyJrn)
 ED2021062 : Perubahan Reminder Kontrak yang akan jatuh tempo (Source\Utility\FrmReminderContract)
 ED2021071 : Perbaikan Form Perhitungan HPP (Source\Procurement\Master\FrmMPBLBrwMtr)
+ED2021076 : Perbaikan Project Tools - Budget Control List (Source\Marketing\Report\FrmRMProjectTools OR CRptRCKontrolBudget123)
