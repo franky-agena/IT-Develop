@@ -25,3 +25,4 @@ ED2021033 : Perbaikan Lap. Project Expense
 ED2021062 : Pembuatan Reminder Kontrak yg Akan Berakhir
 ED2021071 : Perbaikan Form Perhitungan HPP
 ED2021076 : Perbaikan Project Tools - Budget Control List
+ED2021078 : Perubahan Sales Activity & Master Project
