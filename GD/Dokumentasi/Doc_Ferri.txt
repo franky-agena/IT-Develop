@@ -43,3 +43,4 @@ ED2021076 : Perbaikan Project Tools - Budget Control List (Source\Marketing\Repo
 ED2021078 : Perubahan Sales Activity & Master Project (Source\Marketing\Transaction\FrmTMSlsActv Or \Master\MMProject)
 ED2021080 : Perbaikan Lap. Rekap PO. (Source\Procurement\Report\CRptRPPOLstDtl Or CRptRPPOLstDtlRkp)
 ED2021085 : Implementasi Module Forecast pada PT GD (Source\Utility\FrmPreviewForecast)
+ED2021091 : Perubahan Sales Forecast (Source\Utility\FrmPreviewForecast)
