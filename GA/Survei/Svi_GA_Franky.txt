@@ -1,1 +1,2 @@
 [ED2020241] : prosedur [SP_RptAkumulasiAbsensiSemuaKary] parameter ID karyawan yg di filter salah.
+ED2021099 - ABSENSI USER LAURENSUS (LA) BULAN FEBRUARI '21. MENURUT USER ADA YG TIDAK LENGKAP.
