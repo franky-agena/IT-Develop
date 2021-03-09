@@ -1,1 +1,2 @@
 [ED2020241] : ALTER [SP_RptAkumulasiAbsensiSemuaKary] di DB ABSN
+ED2021102 - Compile dan Update Exe.
