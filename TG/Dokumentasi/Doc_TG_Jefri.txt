@@ -17,3 +17,7 @@ ED2021007 - Perbaikan form master pelamar TGS- GA\HRD\Master\FrmMHEmployee.frm (
 ED2021026 - PENAMBAHAN PADA APLIKASI TGS SM & FA  Reminder form tidak hadir
                         FIle TGS- FA\Utility\FrmURmdAccpDateInv.frm
                         file  TGS- SM\Utility\FrmReminderAgenda.frm
+ED2021108 - TGS- GA\HRD\Master\FrmMHEmployee.frm
+                      TGS- GA\ABSENSI\Form\FrmHRCutiMasal.frm
+                      TGS- GA\ABSENSI\Form\FrmHRTdkHadir.frm
+                      TGS- GA\ABSENSI\Form\FrmHRImportData.frm
