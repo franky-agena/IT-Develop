@@ -10,3 +10,4 @@ ED2021010 - Pembuatan Fungsi Lock Forecast
 ED2021047 - Perbaikan Modul Job Request.
 ED2021098 - Perbaikan Material Purchase Request.
 ED2021112 - Perubahan Modul Sales Forecast Preview
+ED2021121 - Perubahan Turn Over Pada Sales Monitor
