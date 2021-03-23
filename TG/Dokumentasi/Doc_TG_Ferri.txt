@@ -19,3 +19,4 @@ ED2021030 - Perubahan Fitur Print Job Request Summary (Source\Form\Menu\FrmRepor
 ED2021091 - Perubahan Sales Forecast (Source\Utility\FrmPreviewForecast)
 ED2021098 - Perbaikan Material Purchase Request. (SourceSafe\Marketing\Transaction\FrmTMPlanPurch)
 ED2021112 - Perubahan Modul Sales Forecast Preview (Source\Utility\FrmPreviewForecast)
+ED2021121 - Perubahan Turn Over Pada Sales Monitor ((Source\Utility\FrmUSaleMon)
