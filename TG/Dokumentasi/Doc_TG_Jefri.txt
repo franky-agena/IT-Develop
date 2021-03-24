@@ -21,4 +21,4 @@ ED2021108 - TGS- GA\HRD\Master\FrmMHEmployee.frm
                       TGS- GA\ABSENSI\Form\FrmHRCutiMasal.frm
                       TGS- GA\ABSENSI\Form\FrmHRTdkHadir.frm
                       TGS- GA\ABSENSI\Form\FrmHRImportData.frm
-ED2021122 - U:\TG\IT\JEFRI\UMUM\SQL\TG\SP_RptAkumulasiAbsensiSemuaKary.sql
+ED2021122 - U:\TG\IT\JEFRI\UMUM\SQL\TG\SP_RptAkumulasiAbsensiSemuaKary.sql.
