@@ -27,3 +27,4 @@ ED2021071 : Perbaikan Form Perhitungan HPP
 ED2021076 : Perbaikan Project Tools - Budget Control List
 ED2021078 : Perubahan Sales Activity & Master Project
 ED2021080 : Perbaikan Lap. Rekap PO.
+ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir
