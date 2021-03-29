@@ -45,3 +45,4 @@ ED2021080 : Perbaikan Lap. Rekap PO. (Source\Procurement\Report\CRptRPPOLstDtl O
 ED2021085 : Implementasi Module Forecast pada PT GD (Source\Utility\FrmPreviewForecast)
 ED2021091 : Perubahan Sales Forecast (Source\Utility\FrmPreviewForecast)
 ED2021107 : Perubahan Reminder Project over Budget (Source\Utility\FrmReminderProjectReal)
+ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir (Source\Construction\FrmTCWrkComp) OR (Source\Utility\FrmReminderContract)
