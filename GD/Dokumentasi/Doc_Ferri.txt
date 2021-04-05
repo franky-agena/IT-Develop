@@ -46,3 +46,4 @@ ED2021085 : Implementasi Module Forecast pada PT GD (Source\Utility\FrmPreviewFo
 ED2021091 : Perubahan Sales Forecast (Source\Utility\FrmPreviewForecast)
 ED2021107 : Perubahan Reminder Project over Budget (Source\Utility\FrmReminderProjectReal)
 ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir (Source\Construction\FrmTCWrkComp) OR (Source\Utility\FrmReminderContract)
+ED2021133 : Perubahan Laporan Pertanggungjawaban Proyek (Source\Construction\Report\CRptRCProjectPJP)
