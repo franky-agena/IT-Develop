@@ -29,3 +29,4 @@ ED2021078 : Perubahan Sales Activity & Master Project
 ED2021080 : Perbaikan Lap. Rekap PO.
 ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir
 ED2021133 : Perubahan Laporan Pertanggungjawaban Proyek
+ED2021137 : Perbaikan Hasil Cetak Dropping
