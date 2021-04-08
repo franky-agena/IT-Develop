@@ -48,3 +48,4 @@ ED2021107 : Perubahan Reminder Project over Budget (Source\Utility\FrmReminderPr
 ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir (Source\Construction\FrmTCWrkComp) OR (Source\Utility\FrmReminderContract)
 ED2021133 : Perubahan Laporan Pertanggungjawaban Proyek (Source\Construction\Report\CRptRCProjectPJP)
 ED2021137 : Perbaikan Hasil Cetak Dropping (Source\Construction\Transaction\TCDropingPrn)
+ED2021142 : Penambahan Fitur Cetak Rekap IO Pada Form Input IO (Source\Marketing\Transaction\FrmTMIntOrderPrn)
