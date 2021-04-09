@@ -50,3 +50,4 @@ ED2021133 : Perubahan Laporan Pertanggungjawaban Proyek (Source\Construction\Rep
 ED2021137 : Perbaikan Hasil Cetak Dropping (Source\Construction\Transaction\TCDropingPrn)
 ED2021142 : Penambahan Fitur Cetak Rekap IO Pada Form Input IO (Source\Marketing\Transaction\FrmTMIntOrderPrn)
 ED2021143 : Perubahan Internal Order & Lap. Pertanggungjwb Proyek (Source\Marketing\Transaction\FrmTMInternalOrder)
+ED2021144 : Modif Beberapa Modul Konstruksi. (Source\Marketing\Master\MMContract Or MMProject) 
