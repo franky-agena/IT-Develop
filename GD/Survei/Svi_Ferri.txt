@@ -30,3 +30,4 @@ ED2021080 : Perbaikan Lap. Rekap PO.
 ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir
 ED2021133 : Perubahan Laporan Pertanggungjawaban Proyek
 ED2021137 : Perbaikan Hasil Cetak Dropping
+ED2021143 : Perubahan Internal Order & Lap. Pertanggungjwb Proyek
