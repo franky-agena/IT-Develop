@@ -52,3 +52,4 @@ ED2021142 : Penambahan Fitur Cetak Rekap IO Pada Form Input IO (Source\Marketing
 ED2021143 : Perubahan Internal Order & Lap. Pertanggungjwb Proyek (Source\Marketing\Transaction\FrmTMInternalOrder)
 ED2021144 : Modif Beberapa Modul Konstruksi. (Source\Marketing\Master\MMContract Or MMProject) 
 ED2021149 : Perubahan Laporan Pertanggungjawaban Proyek (Source\Construction\Report\CRptRCProjectPJP)
+ED2021151 : Perubahan Modul Kontrak & SIP (Source\Marketing\Master\MMContract Or Marketing\Transaction\FrmTMSIP)
