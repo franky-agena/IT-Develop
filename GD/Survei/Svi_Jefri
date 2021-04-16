@@ -28,3 +28,7 @@ ED2021132 - Perbaikan dan pembahan Modul Menu OutStanding PR & PO
 ED2021140 - BAGIAN TAB 'PURCHASE ORDER LIST' TAMBAHKAN FITUR ADVANCE SEARCH. TERDAPAT 2 TIPE PENCARIAN. 
                         BERDASARKAN MATERIAL (KODE / NAMA BARANG) DAN PRINCIPAL (SUPPLIER). 
 ED2021146 - Penambahan Kolom PIC di PO di GD,NW,GA
+ED2021152 - 1. perbaikan fitur cari pada no PR
+                      2. Material yang stout nya sama dengan "1" tidak bisa di edit nama nya 
+                      3. Penambaganb field StEditArr di master Material
+                      4. yang StEditArr nya sama dengan "True" bisa mengupdate nilai Arrival di Form PO
