@@ -21,3 +21,7 @@ ED2021092 - Compile dan Update Exe
 ED2021096 - Compile dan Update Exe
 ED2021103 - Compile dan Update Exe
 ED2021115 - Compile dan Update Exe
+ED2021132 - Compile dan Update Exe, Dan Update SP
+ED2021139 - Compile dan Update Exe
+ED2021140 - Compile dan Update Exe, Dan Update SP
+ED2021146 - Compile dan Update Exe

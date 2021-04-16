@@ -19,3 +19,6 @@ ED2021098 - Perbaikan Material Purchase Request.
 ED2021112 - Perubahan Modul Sales Forecast Preview
 ED2021121 - Perubahan Turn Over Pada Sales Monitor
 ED2021123 - Perubahan AR Invoice 
+ED2021141 - Perubahan Form Input Work Order (SPK)
+ED2021145 - Perubahan Sales Activity & Forecast
+ED2021147 - Perubahan Account Receivable (AR) List 
