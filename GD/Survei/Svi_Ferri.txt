@@ -31,3 +31,4 @@ ED2021130 : Perubahan Progress / BAP Project & Reminder Kontrak yg Akan Berakhir
 ED2021133 : Perubahan Laporan Pertanggungjawaban Proyek
 ED2021137 : Perbaikan Hasil Cetak Dropping
 ED2021143 : Perubahan Internal Order & Lap. Pertanggungjwb Proyek
+ED2021153 : Perubahan Modul Progress Proyek

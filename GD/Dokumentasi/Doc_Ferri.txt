@@ -53,3 +53,4 @@ ED2021143 : Perubahan Internal Order & Lap. Pertanggungjwb Proyek (Source\Market
 ED2021144 : Modif Beberapa Modul Konstruksi. (Source\Marketing\Master\MMContract Or MMProject) 
 ED2021149 : Perubahan Laporan Pertanggungjawaban Proyek (Source\Construction\Report\CRptRCProjectPJP)
 ED2021151 : Perubahan Modul Kontrak & SIP (Source\Marketing\Master\MMContract Or Marketing\Transaction\FrmTMSIP)
+ED2021153 : Perubahan Modul Progress Proyek (Source\Construction\FrmTCWrkComp) 
