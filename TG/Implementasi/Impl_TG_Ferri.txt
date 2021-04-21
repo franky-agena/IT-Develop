@@ -24,3 +24,4 @@ ED2021145 - Perubahan Sales Activity & Forecast
 ED2021147 - Perubahan Account Receivable (AR) List 
 ED2021155 - Update Modul-Modul Sales App. Pekanbaru dengan aplikasi Tgs SM
 ED2021156 - Perubahan Form Daily Activity
+ED2021160 - Perubahan Forecast
