@@ -24,3 +24,4 @@ ED2021108 - TGS- GA\HRD\Master\FrmMHEmployee.frm
 ED2021122 - U:\TG\IT\JEFRI\UMUM\SQL\TG\SP_RptAkumulasiAbsensiSemuaKary.sql.
 ED2021124 - TGS- GA\ABSENSI\Form\FrmHREmailAbsensi.frm
 ED2021150 - TGS- GA\Warehouse\Transaction\FrmTArrivalFA.frm
+ED2021154 - U:\TG\IT\JEFRI\UMUM\TG
