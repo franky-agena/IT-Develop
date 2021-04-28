@@ -13,3 +13,4 @@ ED2021112 - Perubahan Modul Sales Forecast Preview
 ED2021121 - Perubahan Turn Over Pada Sales Monitor
 ED2021141 - Perubahan Form Input Work Order (SPK)
 ED2021156 - Perubahan Form Daily Activity
+ED2021164 - Perubahan Modul Aplikasi Preview Forecast
