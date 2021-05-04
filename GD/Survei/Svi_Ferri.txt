@@ -34,3 +34,4 @@ ED2021143 : Perubahan Internal Order & Lap. Pertanggungjwb Proyek
 ED2021153 : Perubahan Modul Progress Proyek
 ED2021162 : Penambahan Fitur Untuk Otorisasi Project & Filter Form QO
 ED2021170 : Perubahan Module Planning Progress
+ED2021171 : Perubahan format laporan pertanggungjawaban proyek
