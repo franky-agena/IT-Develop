@@ -25,3 +25,11 @@ ED2021122 - U:\TG\IT\JEFRI\UMUM\SQL\TG\SP_RptAkumulasiAbsensiSemuaKary.sql.
 ED2021124 - TGS- GA\ABSENSI\Form\FrmHREmailAbsensi.frm
 ED2021150 - TGS- GA\Warehouse\Transaction\FrmTArrivalFA.frm
 ED2021154 - U:\TG\IT\JEFRI\UMUM\TG
+ED2021166 - TG = TGS- GA\HRD\Master\FrmMHEmployee.frm
+                      TG = TGS- GA\HRD\Master\FrmMHEmployeePrn.frm
+                      GD= TGS- D:\TGS-GD\HRD\Master\FrmMHEmployee.frm
+                      GD = TGS- D:\TGS-GD\HRD\Master\FrmMHEmployeePrn.frm
+                      NWI = TGS - NWI\HRD\Master\FrmMHEmployee.frm
+                      NWI = TGS - NWI\HRD\Master\FrmMHEmployeePrn.frm
+                      GA= TGS - GA\HRD\Master\FrmMHEmployee.frm
+                      GA = TGS - GA\HRD\Master\FrmMHEmployeePrn.frm

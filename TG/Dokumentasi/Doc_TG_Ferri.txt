@@ -27,3 +27,5 @@ ED2021147 - Perubahan Account Receivable (AR) List (Letak Form : Sourcesafe\Fina
 ED2021155 - Update Modul-Modul Sales App. Pekanbaru dengan aplikasi Tgs SM (Source\Marketing\Transaction\FrmTMQuot Or FrmTMSlsActv or FrmTMSlsOrd) Or (Source\Marketing\Master\MMProject or MMClient)
 ED2021156 - Perubahan Form Daily Activity (Source\Marketing\Transaction\FrmTMSlsActv)
 ED2021160 - Perubahan Forecast (Source\Utility\FrmPreviewForecast)
+ED2021164 - Perubahan Modul Aplikasi Preview Forecast  (Source\Utility\FrmPreviewForecast)
+ED2021165 - Pembuatan Reminder Project List Overdue  (Source\Utility\FrmPreviewLastUpdate)

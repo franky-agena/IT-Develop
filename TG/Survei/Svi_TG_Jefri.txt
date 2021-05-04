@@ -17,3 +17,4 @@ ED2021028 - KETIKA SIMPAN RECORD MUNCUL RUNTIME ERROR MENYEBABKAN DATA KURS BANK
 ED2021124 - Perbaiki Modul Absen form kirim email reminder, pengecekan status jam kerja/Hari kerja, karena skrng 
                         sabtu dan minggu di tarik jadi kena imbas hari sabtu & minggu ikutan ke tarik padahal bukan jam kerja/hari kerja.
 ED2021154 - Bikin Sorcode baru untuk Phone Extension
+ED2021166 - Perbaikan Surat-Surat pada modul HRD yaitu PKWT & Penambahan Addendum
