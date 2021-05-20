@@ -27,3 +27,4 @@ ED2021156 - Perubahan Form Daily Activity
 ED2021160 - Perubahan Forecast
 ED2021164 - Perubahan Modul Aplikasi Preview Forecast
 ED2021165 - Pembuatan Reminder Project List Overdue
+ED2021175 - Perubahan Auto Jurnal Accounting
