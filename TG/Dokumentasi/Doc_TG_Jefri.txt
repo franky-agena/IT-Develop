@@ -33,3 +33,4 @@ ED2021166 - TG = TGS- GA\HRD\Master\FrmMHEmployee.frm
                       NWI = TGS - NWI\HRD\Master\FrmMHEmployeePrn.frm
                       GA= TGS - GA\HRD\Master\FrmMHEmployee.frm
                       GA = TGS - GA\HRD\Master\FrmMHEmployeePrn.frm
+ED2021178 - U:\TG\IT\JEFRI\UMUM\TG\PhoneExt.exe
