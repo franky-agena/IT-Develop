@@ -3,3 +3,4 @@ ED2020457 - Penambahan Reminder Outstanding Arrival Fixed Asset
 ED2020464 - Perubahan Master Aset & Arr. Fixed Aset
 ED2020472 - Perbaikan Reminder Outstanding Invoice
 ED2021004 - Perubahan Form PO & PR
+ED2021177 - Perubahan Laporan Finance - Budget vs Realization
