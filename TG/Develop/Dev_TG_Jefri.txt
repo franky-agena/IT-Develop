@@ -1,3 +1,4 @@
 ##Digunakan untuk mencatat durasi selama pembuatan query dalam pekerjaan jenis 'Database'
 
 ED2021154 - Exe List of Phone Extension U:\TG\IT\JEFRI\UMUM\TG 
+ED2021178 - Exe List of Phone Extension U:\TG\IT\JEFRI\UMUM\TG\PhoneExt.exe
