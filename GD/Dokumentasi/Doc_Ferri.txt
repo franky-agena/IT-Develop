@@ -56,3 +56,4 @@ ED2021151 : Perubahan Modul Kontrak & SIP (Source\Marketing\Master\MMContract Or
 ED2021153 : Perubahan Modul Progress Proyek (Source\Construction\FrmTCWrkComp) 
 ED2021162 : Penambahan Fitur Untuk Otorisasi Project & Filter Form QO (Source\Marketing\Master\MMProject) (Source\Marketing\Transaction\FrmTMInternalOrder) (Source\Marketing\Transaction\FrmTCQuot)
 ED2021170 : Perubahan Module Planning Progress  (Source\Construction\FrmTCWrkComp) 
+ED2021171 : Perubahan format laporan pertanggungjawaban proyek  (Source\Construction\Report\CRptRCProjectPJPNew) 
