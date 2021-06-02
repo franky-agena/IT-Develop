@@ -20,3 +20,4 @@ ED2021154 - Bikin Sorcode baru untuk Phone Extension
 ED2021166 - Perbaikan Surat-Surat pada modul HRD yaitu PKWT & Penambahan Addendum
 ED2021178 - Penambahan kolom "Jam Masuk" untuk menampilkan informasi jam kehadiran karyawan yang terdapat di list 
                         & Tambahkan kolom Refresh
+ED2021182 - Penamabahan Cekbox "WFH" Pada  form tidak hadir disebelah kanan kolom keperluan yang hanya muncul jika dia pilih Tugas Kantor
