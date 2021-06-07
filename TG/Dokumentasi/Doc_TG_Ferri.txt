@@ -33,3 +33,4 @@ ED2021175 - Perubahan Auto Jurnal Accounting (Source\Accounting\Process\FrmPAuto
 ED2021180 - Pembuatan Laporan Target vs Achievement (Source\Marketing\Report\FrmRMTargetVsAchievement)
 ED2021187 - Perbaikan Modul Letter of Intent (Source\Marketing\Transaction\FrmTMWorkOrderPrn)
 ED2021196 - Perubahan Laporan Target vs Achievement (Source\Marketing\Report\CRptTargetVsAchievement)
+ED2021195 - Perubahan Modul Master Project (Source\Marketing\Master\MMProject)
