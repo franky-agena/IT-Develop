@@ -29,3 +29,6 @@ ED2021164 - Perubahan Modul Aplikasi Preview Forecast
 ED2021165 - Pembuatan Reminder Project List Overdue
 ED2021175 - Perubahan Auto Jurnal Accounting
 ED2021180 - Pembuatan Laporan Target vs Achievement
+ED2021187 - Perbaikan Modul Letter of Intent
+ED2021196 - Perubahan Laporan Target vs Achievement
+ED2021195 - Perubahan Modul Master Project
